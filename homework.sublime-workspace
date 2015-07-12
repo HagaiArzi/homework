@@ -1,0 +1,2197 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Old",
+				"OLD_PROCESS"
+			],
+			[
+				"A",
+				"Approval"
+			],
+			[
+				"case",
+				"case	case … end"
+			],
+			[
+				"begin",
+				"begin	begin … rescue … end"
+			],
+			[
+				"wo",
+				"workflow_approvers"
+			],
+			[
+				"allow",
+				"allow_any_instance_of"
+			],
+			[
+				"app",
+				"approval1"
+			],
+			[
+				"show",
+				"show_help"
+			],
+			[
+				"fin",
+				"find"
+			],
+			[
+				"do",
+				"do0	Do Block without Arguments [X]"
+			],
+			[
+				"assigne",
+				"assignee_id"
+			],
+			[
+				"approve",
+				"approvers"
+			],
+			[
+				"assi",
+				"assignee"
+			],
+			[
+				"ac",
+				"activity"
+			],
+			[
+				"acti",
+				"activity1"
+			],
+			[
+				"App",
+				"approval1"
+			],
+			[
+				"Acti",
+				"Activities"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"work",
+				"workflow_error"
+			],
+			[
+				"end",
+				"trap_exceptions_and_save"
+			],
+			[
+				"param",
+				"param1"
+			],
+			[
+				"return",
+				"and_return"
+			],
+			[
+				"workflow",
+				"workflow_approver_ids"
+			],
+			[
+				"current_",
+				"current_user"
+			],
+			[
+				"add",
+				"add_node"
+			],
+			[
+				"ass",
+				"assignee_id"
+			],
+			[
+				"on",
+				"on_context_changed"
+			],
+			[
+				"noe",
+				"nodes"
+			],
+			[
+				"selected_",
+				"selected_items"
+			],
+			[
+				"p",
+				"parent"
+			],
+			[
+				"filter",
+				"filter_junctions"
+			],
+			[
+				"select",
+				"selected_node"
+			],
+			[
+				"selected",
+				"selected_items"
+			],
+			[
+				"data",
+				"data_store"
+			],
+			[
+				"taskable",
+				"taskable_type"
+			],
+			[
+				"migrate",
+				"migrate_item"
+			],
+			[
+				"add_",
+				"add_node"
+			],
+			[
+				"with",
+				"with_indifferent_access"
+			],
+			[
+				"mi",
+				"migrate"
+			],
+			[
+				"is",
+				"is_a"
+			],
+			[
+				"list",
+				"list_activities"
+			],
+			[
+				"act",
+				"activity3"
+			],
+			[
+				"create",
+				"create_activity_record"
+			],
+			[
+				"pro",
+				"main_process"
+			],
+			[
+				"upda",
+				"updated_data"
+			],
+			[
+				"workflo",
+				"workflow_record"
+			],
+			[
+				"activity",
+				"activity_completed"
+			],
+			[
+				"to",
+				"to_json"
+			],
+			[
+				"com",
+				"completed_at"
+			],
+			[
+				"attr",
+				"attr_accessor"
+			],
+			[
+				"ma",
+				"main_process"
+			],
+			[
+				"W",
+				"Workflow"
+			],
+			[
+				"max",
+				"max_items"
+			],
+			[
+				"incident",
+				"incident1"
+			],
+			[
+				"inci",
+				"incident1"
+			],
+			[
+				"inc",
+				"incidents"
+			],
+			[
+				"incid",
+				"incident1"
+			],
+			[
+				"due",
+				"due_days"
+			],
+			[
+				"to_",
+				"to_s"
+			],
+			[
+				"approvers_",
+				"approvers_data"
+			],
+			[
+				"custom_field",
+				"custom_fields_values"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"appr",
+				"approver_multi_select"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"set",
+				"set_approval_condition"
+			],
+			[
+				"item",
+				"catalog_items"
+			],
+			[
+				"sh",
+				"should"
+			],
+			[
+				"link_",
+				"link_obj"
+			],
+			[
+				"audi",
+				"audits"
+			],
+			[
+				"any",
+				"any_links"
+			],
+			[
+				"itsm",
+				"itsm_changes"
+			],
+			[
+				"Re",
+				"requester"
+			],
+			[
+				"kla",
+				"klass_name"
+			],
+			[
+				"enable",
+				"enabled"
+			],
+			[
+				"F",
+				"FirstLinkedType"
+			],
+			[
+				"tar",
+				"target_type"
+			],
+			[
+				"first",
+				"first_linked_types"
+			],
+			[
+				"second",
+				"second_linked_types"
+			],
+			[
+				"fi",
+				"first_linked_types"
+			],
+			[
+				"controller",
+				"controller_name"
+			],
+			[
+				"edit",
+				"edit_link"
+			],
+			[
+				"disabled",
+				"disabled_account"
+			],
+			[
+				"render",
+				"render_to_string"
+			],
+			[
+				"respo",
+				"respond_to"
+			],
+			[
+				"res",
+				"respond_to"
+			],
+			[
+				"mass",
+				"mass_update"
+			],
+			[
+				"stub_",
+				"stub_chain"
+			],
+			[
+				"contracts",
+				"contracts_path"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"curr",
+				"current_account"
+			],
+			[
+				"curren",
+				"current_controller"
+			],
+			[
+				"up",
+				"update_attributes"
+			],
+			[
+				"to_s",
+				"to_sym"
+			],
+			[
+				"assign",
+				"assign_api_attributes"
+			],
+			[
+				"hard",
+				"hardware"
+			],
+			[
+				"shared",
+				"shared_examples_for"
+			],
+			[
+				"new",
+				"new_value"
+			],
+			[
+				"gr",
+				"group"
+			],
+			[
+				"user_",
+				"user_group_or_user"
+			],
+			[
+				"api",
+				"api_header"
+			],
+			[
+				"owner",
+				"owner_param"
+			],
+			[
+				"group",
+				"group_id"
+			],
+			[
+				"render_to",
+				"render_to_string"
+			],
+			[
+				"collection",
+				"collection_name"
+			],
+			[
+				"find",
+				"find_by_sql"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"custo",
+				"custom_field"
+			],
+			[
+				"ver",
+				"api_version"
+			],
+			[
+				"current",
+				"current_account"
+			],
+			[
+				"pagin",
+				"pagination_required"
+			],
+			[
+				"account",
+				"account_id"
+			],
+			[
+				"options_",
+				"options_array"
+			],
+			[
+				"priority",
+				"priority_string"
+			],
+			[
+				"Related",
+				"RelatedIncident"
+			],
+			[
+				"in",
+				"Incident"
+			],
+			[
+				"class",
+				"class_name"
+			],
+			[
+				"tot",
+				"total_system_reports_count_before"
+			],
+			[
+				"original",
+				"original_report_id"
+			],
+			[
+				"system",
+				"system_report"
+			],
+			[
+				"modified",
+				"modified_reports"
+			],
+			[
+				"update",
+				"update_attribute"
+			],
+			[
+				"sort",
+				"sort_by"
+			],
+			[
+				"common",
+				"common_report"
+			],
+			[
+				"or",
+				"orphan_common_report"
+			],
+			[
+				"and",
+				"and_return"
+			],
+			[
+				"wh",
+				"where"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "frontend/app/templates/index.hbs",
+			"settings":
+			{
+				"buffer_size": 31,
+				"line_ending": "Unix",
+				"name": "<p>"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 1394,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 307,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "frontend/app/router.js",
+			"settings":
+			{
+				"buffer_size": 195,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "frontend/app/templates/application.hbs",
+			"settings":
+			{
+				"buffer_size": 118,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "frontend/app/routes/application.js",
+			"settings":
+			{
+				"buffer_size": 191,
+				"line_ending": "Unix",
+				"name": "export default Ember.Route.extend({"
+			}
+		},
+		{
+			"file": "frontend/app/controllers/application.js",
+			"settings":
+			{
+				"buffer_size": 74,
+				"line_ending": "Unix",
+				"name": "export default Ember.Controller.extend({"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/frontend.scss",
+			"settings":
+			{
+				"buffer_size": 29,
+				"line_ending": "Unix",
+				"name": "// @import './frontend/**/*';"
+			}
+		},
+		{
+			"file": "config/initializers/assets.rb",
+			"settings":
+			{
+				"buffer_size": 441,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "hex",
+		"selected_items":
+		[
+			[
+				"hex",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git ",
+				"Git: Blame"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"blam",
+				"Set Syntax: Git Blame"
+			],
+			[
+				"moveta",
+				"Move Tab: To first position"
+			],
+			[
+				"tab",
+				"Move Tab: To the left"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"int",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"gitbl",
+				"Git: Blame"
+			],
+			[
+				"gitbla",
+				"Git: Blame"
+			],
+			[
+				"gitb",
+				"Set Syntax: Git Blame"
+			],
+			[
+				"",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"git:b",
+				"Git: Blame"
+			],
+			[
+				"git:",
+				"Git: Blame"
+			],
+			[
+				"snre",
+				"Snippet: begin … rescue … end"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"gitblame",
+				"Git: Blame"
+			],
+			[
+				"gitblam",
+				"Git: Blame"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"Pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa",
+				"Package Control: Add Repository"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"pakli",
+				"Package Control: List Packages"
+			],
+			[
+				"packli",
+				"Package Control: List Packages"
+			],
+			[
+				"goto",
+				"Goto Documentation"
+			],
+			[
+				"package Control: ",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 226.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"rspec",
+			"echo $PATH",
+			"set %PATH",
+			"%PATH",
+			"%path",
+			"set path",
+			"path",
+			"ls",
+			"$PATH",
+			"?PATH",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Hagai/projects/homework",
+		"/Users/Hagai/projects/homework/app/assets",
+		"/Users/Hagai/projects/homework/app/views/layouts",
+		"/Users/Hagai/projects/homework/frontend",
+		"/Users/Hagai/projects/homework/frontend/app/routes",
+		"/Users/Hagai/projects/homework/frontend/app/templates"
+	],
+	"file_history":
+	[
+		"/Users/Hagai/projects/homework/app/controllers/ember_controller.rb",
+		"/Users/Hagai/projects/homework/config/routes.rb",
+		"/Users/Hagai/projects/homework/app/views/layouts/ember.html.erb",
+		"/Users/Hagai/projects/homework/app/views/ember/bootstrap.html.erb",
+		"/Users/Hagai/projects/homework/config/initializers/ember.rb",
+		"/Users/Hagai/projects/homework/Gemfile",
+		"/Volumes/dev/Frontend/app/models/task.rb",
+		"/Volumes/dev/Frontend/app/models/workflows/activities/workflow_approver.rb",
+		"/Volumes/dev/Frontend/lib/responders/i18n_flash_responder_templates.rb",
+		"/Volumes/dev/Frontend/app/models/workflows/activities/activity.rb",
+		"/Volumes/dev/Frontend/spec/models/task_spec.rb",
+		"/Volumes/dev/Frontend/spec/requests/task_spec.rb",
+		"/Volumes/dev/Frontend/app/models/permission.rb",
+		"/Volumes/dev/Frontend/app/helpers/tasks_helper.rb",
+		"/Volumes/dev/Frontend/app/controllers/tasks_controller.rb",
+		"/Volumes/dev/Frontend/config/locales/application/en.yml",
+		"/Volumes/dev/Frontend/app/views/notifier/workflow_action_required.html.erb",
+		"/Volumes/dev/Frontend/app/models/notifier.rb",
+		"/Volumes/dev/Frontend/app/models/oauths/jira.rb",
+		"/Volumes/dev/Frontend/app/models/incident/service_request.rb",
+		"/Volumes/dev/Frontend/app/models/incident.rb",
+		"/Volumes/dev/Frontend/app/models/workflows/activities/action.rb",
+		"/Volumes/dev/Frontend/lib/tasks/run_once_tasks/update_task_types.rake",
+		"/Volumes/dev/Frontend/app/views/tasks/_task.html.haml",
+		"/Volumes/dev/Frontend/db/migrate/20150623165345_add_type_to_tasks.rb",
+		"/Volumes/dev/Frontend/db/migrate/20150622114644_add_account_to_activities.rb",
+		"/Volumes/dev/Frontend/lib/tasks/run_once_tasks/update_activities_account.rake",
+		"/Volumes/dev/Frontend/app/controllers/workflows/workflows_controller.rb",
+		"/Volumes/dev/Frontend/lib/sieve/searching/incident.rb",
+		"/Volumes/dev/Frontend/coverage/index.html",
+		"/Volumes/dev/Frontend/app/models/workflows/workflow.rb",
+		"/Volumes/dev/Frontend/app/views/workflows/activities/_complete_activity.html.haml",
+		"/Volumes/dev/Frontend/app/helpers/forms_helper.rb",
+		"/Volumes/dev/Frontend/config/routes.rb",
+		"/Volumes/dev/Frontend/app/views/tasks/_complete_task_form.html.haml",
+		"/Volumes/dev/Frontend/spec/lib/workflow_engine_spec.rb",
+		"/Volumes/dev/Frontend/spec/models/ability_spec.rb",
+		"/Volumes/dev/Frontend/spec/models/notifier_spec.rb",
+		"/Volumes/dev/Frontend/spec/spec_helper.rb",
+		"/Volumes/dev/Frontend/db/migrate/029_create_ocsweb_tables.rb",
+		"/Volumes/dev/Frontend/lib/tasks/run_once_tasks/migrate_category_to_incident_type.rake",
+		"/Volumes/dev/Frontend/app/models/itsm.rb",
+		"/Volumes/dev/Frontend/db/migrate/20130424115450_migrate_ci_images_to_paperclip.rb",
+		"/Volumes/dev/Frontend/db/migrate/20150603135415_add_delta_to_custom_fields_values.rb",
+		"/Volumes/dev/Frontend/app/models/report.rb",
+		"/Volumes/dev/Frontend/config/locales/application/id.yml",
+		"/Volumes/dev/Frontend/app/models/widgets_layout.rb",
+		"/Volumes/dev/Frontend/app/views/widgets/_widget_tasks_created_today.html.haml",
+		"/Volumes/dev/Frontend/lib/workflows/workflow_engine/activity.rb",
+		"/Volumes/dev/Frontend/lib/workflows/workflow_engine/base.rb",
+		"/Volumes/dev/Frontend/lib/workflows/workflow_engine/root.rb",
+		"/private/etc/paths",
+		"/Volumes/dev/Frontend/app/indices/other_asset_index.rb",
+		"/Volumes/dev/Frontend/app/indices/hardware_index.rb",
+		"/Volumes/dev/Frontend/app/indices/mobile_index.rb",
+		"/Volumes/dev/Frontend/lib/reports_and_filters.rb",
+		"/Volumes/dev/Frontend/lib/authenticated_system.rb",
+		"/Volumes/dev/Frontend/spec/controllers/application_controller_spec.rb",
+		"/Volumes/dev/Frontend/app/models/log.rb",
+		"/Volumes/dev/Frontend/app/helpers/custom_url_helper.rb",
+		"/Volumes/dev/Frontend/app/controllers/incoming_emails_controller.rb",
+		"/Volumes/dev/Frontend/app/controllers/application_controller.rb",
+		"/Volumes/dev/Frontend/app/helpers/application_helper.rb",
+		"/Volumes/dev/Frontend/app/models/account.rb",
+		"/Volumes/dev/Frontend/app/controllers/incidents_controller.rb",
+		"/Volumes/dev/Frontend/lib/responders/std_formats_responder.rb",
+		"/Volumes/dev/Frontend/spec/support/local_spec_extensions.rb",
+		"/Volumes/dev/Frontend/app/controllers/attachments_controller.rb",
+		"/Volumes/dev/Frontend/config/initializers/request.rb",
+		"/Volumes/dev/Frontend/app/helpers/search_helper.rb",
+		"/Volumes/dev/Frontend/app/models/user.rb",
+		"/Volumes/dev/Frontend/spec/controllers/atoms_controller_spec.rb",
+		"/Volumes/dev/Frontend/app/controllers/atoms_controller.rb",
+		"/Volumes/dev/Frontend/app/helpers/atoms_helper.rb",
+		"/Volumes/dev/Frontend/app/controllers/incident_types_controller.rb",
+		"/Volumes/dev/Frontend/spec/controllers/emails_controller_spec.rb",
+		"/Volumes/dev/Frontend/spec/controllers/plans_controller_spec.rb",
+		"/Volumes/dev/Frontend/spec/requests/account_spec.rb",
+		"/Volumes/dev/Frontend/spec/models/account_spec.rb",
+		"/Volumes/dev/Frontend/app/views/admin/accounts/index.atom.builder",
+		"/Volumes/dev/Frontend/app/controllers/admin/accounts_controller.rb",
+		"/Volumes/dev/Frontend/app/controllers/sessions_controller.rb",
+		"/Volumes/dev/Frontend/app/workers/s3_delete_account_backup_worker.rb",
+		"/Volumes/dev/Frontend/app/models/url_token.rb",
+		"/Users/Hagai/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.7/lib/action_dispatch/http/url.rb",
+		"/Volumes/dev/Frontend/app/helpers/toolbars_helper.rb",
+		"/Volumes/dev/Frontend/app/controllers/info_controller.rb",
+		"/Volumes/dev/Frontend/app/controllers/changes_controller.rb",
+		"/private/etc/hosts",
+		"/Volumes/dev/Frontend/tags",
+		"/Volumes/dev/Frontend/app/controllers/catalog_item_variables_controller.rb",
+		"/Volumes/dev/Frontend/app/models/workflows/activities/approval.rb",
+		"/Volumes/dev/Frontend/app/views/application/approve_decline_response.html.haml",
+		"/Volumes/dev/Frontend/app/helpers/approval_helper.rb",
+		"/Volumes/dev/Frontend/app/views/application/_external_response.html.haml",
+		"/Volumes/dev/Frontend/spec/models/workflows/activities/approval_spec.rb",
+		"/Volumes/dev/Frontend/app/models/workflows/workflow_template.rb",
+		"/Volumes/dev/Frontend/app/models/membership.rb",
+		"/Volumes/dev/Frontend/app/models/audit.rb",
+		"/Volumes/dev/Frontend/lib/audits_common.rb",
+		"/Volumes/dev/Frontend/spec/models/workflows/workflow_spec.rb",
+		"/Volumes/dev/Frontend/app/controllers/responses_controller.rb",
+		"/Volumes/dev/Frontend/app/views/notifier/workflow_approval_required.html.erb",
+		"/Volumes/dev/Frontend/app/views/notifier/workflow_approval_required.text.erb",
+		"/Volumes/dev/Frontend/app/assets/javascripts/backbone_app/entities/response.js.coffee",
+		"/Volumes/dev/Frontend/db/structure.sql",
+		"/Volumes/dev/Frontend/spec/models/workflows/activities/activity_spec.rb",
+		"/Volumes/dev/Frontend/spec/models/workflows/activities/action_spec.rb",
+		"/Volumes/dev/Frontend/app/helpers/remote_helper.rb",
+		"/Volumes/dev/Frontend/lib/hiddable.rb",
+		"/Volumes/dev/Frontend/app/views/layouts/guest.html.haml",
+		"/Volumes/dev/Frontend/spec/lib/workflow_engine/activity_spec.rb",
+		"/Volumes/dev/Frontend/app/models/workflows/activities/external_activity.rb",
+		"/Volumes/dev/Frontend/spec/controllers/workflows/workflows_controller_spec.rb",
+		"/Volumes/dev/Frontend/app/controllers/workflows_controller.rb",
+		"/Volumes/dev/Frontend/app/controllers/workflows/activities/workflow_approvers_controller.rb",
+		"/Users/Hagai/.zsh/zshrc",
+		"/Volumes/dev/Frontend/app/models/response.rb",
+		"/Volumes/dev/Frontend/lib/workflows/workflow_error.rb",
+		"/Volumes/dev/Frontend/frontend.sublime-workspace",
+		"/Volumes/dev/Frontend/config/application.rb",
+		"/Volumes/dev/Frontend/app/controllers/workflows/activities/activities_controller.rb",
+		"/Volumes/dev/Frontend/spec/models/url_token_spec.rb",
+		"/Volumes/dev/Frontend/spec/requests/user_spec.rb",
+		"/Volumes/dev/Frontend/app/models/catalog_item.rb",
+		"/Volumes/dev/Frontend/app/controllers/users_controller.rb",
+		"/Volumes/dev/Frontend/app/controllers/departments_controller.rb",
+		"/Volumes/dev/Frontend/.pryrc"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+			"/Volumes/dev/Frontend,-*.dat,-*.sps,-*.php, -i18n/*.js,~/.rvm/gems/ruby-2.1.1/gems/",
+			"/Volumes/dev/Frontend,-*.dat,-*.sps,-*.php, -i18n/*.js",
+			"/Volumes/dev/Frontend,-*.dat,-*.sps,-*.php, -i18n/*.js, -*.js, -*.coffee",
+			"/Volumes/dev/Frontend,-*.dat,-*.sps,-*.php, -i18n/*.js, -*.js -*.coffee",
+			"/Volumes/dev/Frontend,-*.dat,-*.sps,-*.php, -i18n/*.js, -*.js",
+			"/Volumes/dev/Frontend,-*.dat,-*.sps,-*.php, -i18n/*.js,~/.rvm/gems/ruby-2.1.1/gems/",
+			"/Volumes/dev/Frontend/app/assets/javascripts/backbone_app",
+			"/Volumes/dev/Frontend,-*.dat,-*.sps,-*.php, -i18n/*.js,~/.rvm/gems/ruby-2.1.1/gems/",
+			"/Volumes/dev/Frontend/app/assets/javascripts/backbone_app",
+			"/Volumes/dev/Frontend/app/assets/javascripts/backbone_app/apps",
+			"/Volumes/dev/Frontend,-*.dat,-*.sps,-*.php, -i18n/*.js,~/.rvm/gems/ruby-2.1.1/gems/",
+			"/Volumes/dev/Frontend,-*.dat,-*.sps,-*.php, -i18n/*.js,~/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.5",
+			"/Volumes/dev/Frontend,-*.dat,-*.sps,-*.php, -i18n/*.js,~/.rvm/gems/ruby-2.0.0-p353/gems",
+			"/Volumes/dev/Frontend,-*.dat,-*.sps,-*.php, -i18n/*.js",
+			"/Volumes/dev/Frontend,-*.dat,-*.sps,-*.php, -i18n/ca.js:.js",
+			"/Volumes/dev/Frontend,-*.dat,-*.sps,-*.php, -ar.js",
+			"/Volumes/dev/Frontend,-*.dat,-*.sps,-*.php",
+			"/Volumes/dev/Frontend,-*.dat,-*.sps,-/Volumes/dev/Frontend/tmp/*.*",
+			"/Volumes/dev/Frontend,-*.dat,,-*.sps",
+			"/Volumes/dev/Frontend",
+			"/Users/Hagai/.rvm/gems/ruby-2.0.0-p353/gems",
+			"/Volumes/dev/Frontend, /Users/Hagai/.rvm/gems/ruby-2.0.0-p353/gems, -*.orig,-*.log,-*.json,-*.sps,-path/Volumes/dev/Frontend/tmp/*",
+			"/Volumes/dev/Frontend, -*.orig,-*.log,-*.json,-*.sps,-path/Volumes/dev/Frontend/tmp/*",
+			"/Volumes/dev/Frontend, /Users/Hagai/.rvm/gems/ruby-2.0.0-p353/gems, -*.orig,-*.log,-*.json,-*.sps,-path/Volumes/dev/Frontend/tmp/*",
+			"/Volumes/dev/Frontend, -*.orig,-*.log,-*.json,-*.sps,-path/Volumes/dev/Frontend/tmp/*",
+			"/Volumes/dev/Frontend, -*.orig,-*.log,-*.json,-path/Volumes/dev/Frontend/tmp/*",
+			"/Volumes/dev/Frontend, -*.orig,-*.log,-*.json,-/Volumes/dev/Frontend/tmp",
+			"/Volumes/dev/Frontend, -*.orig,-*.log,-*.json,-/Volumes/dev/Frontend/tmp/*.*",
+			"/Volumes/dev/Frontend, -*.orig,-*.log,-*.json,-/Volumes/dev/Frontend/tmp/",
+			"/Volumes/dev/Frontend, -*.orig,-*.log,-*.json",
+			"/Volumes/dev/Frontend, /Users/Hagai/.rvm/gems/ruby-2.0.0-p353/gems, -*.orig,-*.log,-*.json",
+			"/Volumes/dev/Frontend,-*.orig,-*.log,-*.json,/Users/Hagai/.rvm/gems/ruby-2.0.0-p353/gems",
+			"/Volumes/dev/Frontend,-*.orig,-*.log,-*.json",
+			"/Volumes/dev/Frontend,-*.orig,-*.log",
+			"/Volumes/dev/Frontend,/Users/Hagai/.rvm/gems/ruby-2.0.0-p353/gems,-*.orig,-*.log",
+			"/Volumes/dev/Frontend,/Users/Hagai/.rvm/gems/ruby-2.0.0-p353/gems,-*.orig",
+			"/Volumes/dev/Frontend,/Users/Hagai/.rvm/gems/ruby-2.0.0-p353/gems",
+			"/Volumes/dev/Frontend,/Users/Hagai/.rvm/gems/ruby-1.9.3-p448/gems,",
+			"/Volumes/dev/Frontend,/Users/Hagai/.rvm/gems/ruby-1.9.3-p448/gems,*.sass",
+			"/Volumes/dev/Frontend,/Users/Hagai/.rvm/gems/ruby-1.9.3-p448/gems,*.css",
+			"/Volumes/dev/Frontend,/Users/Hagai/.rvm/gems/ruby-1.9.3-p448/gems",
+			"/Volumes/dev/Frontend",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"due_",
+			"table_headers",
+			"due_at",
+			"created",
+			"permission_scopes",
+			"site",
+			"source",
+			"title",
+			"source",
+			"confirmation",
+			"email_new_assignees",
+			"check_task",
+			"@sidebar?",
+			"editable?",
+			"SUBJECTS",
+			"focus:",
+			"hidden",
+			"tasks",
+			"link_to_confirm",
+			"source_title",
+			"complete",
+			"tasks_created_today",
+			"\"tasks created today\"",
+			"set_completed_by",
+			"Workflow",
+			"create_activity_record",
+			"account",
+			"inclu",
+			"task.taskable_id.to_i",
+			"task_base_path",
+			"task_parent_object_url",
+			"bind",
+			"account_id",
+			"tokened_url",
+			"Log.write",
+			"atom",
+			"Log.write",
+			"to_redirect",
+			"select ",
+			"select",
+			"itsm_",
+			"rss?",
+			"Log.write!",
+			"log",
+			"create_tokened_url",
+			"if (jQuery(\"#export\").val()",
+			"atom_link",
+			"create_tokened_url",
+			"atom_link",
+			"url_with_domain_mapping",
+			"CustomUrlHelper",
+			"custom_url",
+			"atom_link",
+			"create_tokened_url",
+			"url_token",
+			"rss?",
+			"login_from_rss_token",
+			"atom_link",
+			"f (jQuery(\"#export\").val()",
+			"rss_token",
+			"rss",
+			"token",
+			"&&",
+			"count_enabled_users_from_groups",
+			"account",
+			"@approval1",
+			"@user1",
+			"workflow_approval_required",
+			"_responses_path",
+			"\"_responses_path\"]",
+			"Routes[(this.parent.get('klass').underscore()) + \"_responses_path\"]",
+			"workflow_audit_approved",
+			"current_approver",
+			"render_options:",
+			"render_options",
+			"VOTES",
+			"should_send_emails",
+			"user",
+			"due",
+			"send_emails_to_approvers",
+			"user",
+			"binding",
+			"assignee_id",
+			"workflow_approver",
+			"stub_group",
+			"stub_user",
+			"compose_audit",
+			"validate_event",
+			"workflow_approver_id",
+			"stub_user",
+			"create_tokened_url",
+			"workflow_approver_id",
+			"email without template",
+			"use_task_through_incidents",
+			"use_task",
+			"def use_task",
+			"use_task_through_incidents",
+			"update_approvers",
+			"workflow_audit_declined",
+			"responses_path",
+			"reaponses_path",
+			"responces_path",
+			"workflow_errors",
+			"workflow_error",
+			"workflow_errors",
+			"user",
+			"WorkflowError",
+			"use_relative_model_naming?",
+			"external_event",
+			"current_",
+			"patch",
+			"readonly",
+			"read_only",
+			"read",
+			"redirect",
+			"users",
+			"is_self",
+			"user",
+			"render_user_removed",
+			"is_self",
+			"responses",
+			"send_approvers_emails",
+			"due_at",
+			"logged_out_approval_landing_page",
+			"valid",
+			"password",
+			"secret_key_base",
+			"http_digest_encrypt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sidebar?",
+			"@sidebar?",
+			"@approval",
+			"@user",
+			"Action",
+			"\"",
+			"@context",
+			"DECLINE",
+			"ACCEPT",
+			"vote",
+			"pending_approver",
+			"declined_approver",
+			"approved_approver",
+			"approvers_array",
+			"use_task_through_incidents",
+			"due_in",
+			"uuid",
+			"@approval_junction",
+			"klass:",
+			"@junction",
+			"Junction",
+			"site",
+			"site_id",
+			"@approval_junction_with_abort",
+			"Action",
+			"klass",
+			"Workflows::WorkflowEngine",
+			"ExternalActivity",
+			"Activities::Activity",
+			"",
+			"WorkflowEngine::Process",
+			"",
+			"item",
+			":type",
+			":name",
+			"type: \"Task\"",
+			"options",
+			"trap_exceptions",
+			"in_transaction",
+			"waitable?",
+			"@root",
+			"root",
+			"WaitableActivity",
+			"SinglePassActivity",
+			"NonWaitableActivity",
+			"Activity::COMPLETED",
+			"Activity::PENDING",
+			"Activity::NEW",
+			"",
+			"Base",
+			"@workflow.start(1)",
+			"complete",
+			"WorkflowEngine::",
+			"aaaa",
+			"WorkflowEngine::",
+			"orkflowEngine:",
+			"WorkflowEngine::",
+			"WorkflowEngine",
+			"WorkfloeEngine",
+			"execute",
+			"execute!",
+			"node",
+			"user",
+			"useruser",
+			"user",
+			"Group",
+			"group",
+			"department",
+			"@incident1",
+			"@problem",
+			"problem",
+			"@incident",
+			"@problem1",
+			"samanage.workflow_data.section_html",
+			"samanage.workflow_data.task_html",
+			"app/assets/fonts",
+			"local('/",
+			"http://localhost:3000/fonts",
+			"file:///Volumes/dev/Frontend/app/assets",
+			"localhost:3000/assets",
+			"\"",
+			"'",
+			"272441",
+			"265628",
+			"approval",
+			" { msg: \"\", url: '' },",
+			".itsm_changes",
+			"change_ids",
+			"incident_ids",
+			"changes",
+			"incidents",
+			"Incident",
+			"Change",
+			"book",
+			"reader",
+			"Reader",
+			"Book",
+			"",
+			"flash_hide_edit_link",
+			"format",
+			"",
+			"\"",
+			"options",
+			"",
+			":",
+			"scoped",
+			"controller.instance_variable_set(",
+			"",
+			" ",
+			"real_attr_name(",
+			"real_attr_name(model, ",
+			"model",
+			"@model",
+			"\"",
+			" =>",
+			",\\n",
+			": ",
+			"\\1:",
+			"\\1'",
+			"'\\1",
+			"'\\2",
+			"'\\1",
+			"'$1",
+			"'($1)",
+			"app",
+			"rails",
+			"set_main_resource",
+			"resource"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "frontend/app/templates/index.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<p>",
+							"is_xml": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1394,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								742,
+								742
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/layouts/application.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								289,
+								289
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "frontend/app/router.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "frontend/app/templates/application.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "frontend/app/routes/application.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								191,
+								191
+							]
+						],
+						"settings":
+						{
+							"auto_name": "export default Ember.Route.extend({",
+							"is_xml": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "frontend/app/controllers/application.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 74,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"auto_name": "export default Ember.Controller.extend({",
+							"is_xml": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/assets/stylesheets/frontend.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								29
+							]
+						],
+						"settings":
+						{
+							"auto_name": "// @import './frontend/**/*';",
+							"is_xml": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "config/initializers/assets.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								250,
+								250
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 36.0
+	},
+	"output.find_results":
+	{
+		"height": 241.0
+	},
+	"output.git":
+	{
+		"height": 148.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 136.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 160.0
+	},
+	"pinned_build_system": "",
+	"project": "homework.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"bootst",
+				"app/views/ember/bootstrap.html.erb"
+			],
+			[
+				"assets",
+				"config/initializers/assets.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"config/initializers/ember.rb",
+				"config/initializers/ember.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"app/models/oauths/jira.rb",
+				"Frontend/app/models/oauths/jira.rb"
+			],
+			[
+				"workflow_action_required",
+				"Frontend/app/views/notifier/workflow_action_required.html.erb"
+			],
+			[
+				"fronten.yml",
+				"Frontend/config/locales/application/en.yml"
+			],
+			[
+				"notifier",
+				"Frontend/app/models/notifier.rb"
+			],
+			[
+				"action.rb",
+				"Frontend/app/models/workflows/activities/action.rb"
+			],
+			[
+				"workfloappro",
+				"Frontend/app/models/workflows/activities/workflow_approver.rb"
+			],
+			[
+				"requstaskspe",
+				"Frontend/spec/requests/task_spec.rb"
+			],
+			[
+				"taskspec",
+				"Frontend/spec/models/task_spec.rb"
+			],
+			[
+				"activity",
+				"Frontend/app/models/workflows/activities/activity.rb"
+			],
+			[
+				"i18ntemre",
+				"Frontend/lib/responders/i18n_flash_responder_templates.rb"
+			],
+			[
+				"permission",
+				"Frontend/app/models/permission.rb"
+			],
+			[
+				"taskcont",
+				"Frontend/app/controllers/tasks_controller.rb"
+			],
+			[
+				"taskshelp",
+				"Frontend/app/helpers/tasks_helper.rb"
+			],
+			[
+				"task.r",
+				"Frontend/app/models/task.rb"
+			],
+			[
+				"incide",
+				"Frontend/app/models/incident.rb"
+			],
+			[
+				"incident",
+				"Frontend/lib/sieve/searching/incident.rb"
+			],
+			[
+				"taskscont",
+				"Frontend/app/controllers/tasks_controller.rb"
+			],
+			[
+				"workflowcontro",
+				"Frontend/app/controllers/workflows/workflows_controller.rb"
+			],
+			[
+				"addaccounttoac",
+				"Frontend/db/migrate/20150622114644_add_account_to_activities.rb"
+			],
+			[
+				"task.rb",
+				"Frontend/app/models/task.rb"
+			],
+			[
+				"ability_spec",
+				"Frontend/spec/models/ability_spec.rb"
+			],
+			[
+				"permiss",
+				"Frontend/app/models/permission.rb"
+			],
+			[
+				"spec/models/ability_spec.rb",
+				"Frontend/spec/models/ability_spec.rb"
+			],
+			[
+				"workflo",
+				"Frontend/app/models/workflows/workflow.rb"
+			],
+			[
+				"migrate",
+				"Frontend/lib/tasks/run_once_tasks/migrate_category_to_incident_type.rake"
+			],
+			[
+				"migrate.rb",
+				"Frontend/db/migrate/20130424115450_migrate_ci_images_to_paperclip.rb"
+			],
+			[
+				"createtab",
+				"Frontend/db/migrate/029_create_ocsweb_tables.rb"
+			],
+			[
+				"ability_spec.rb",
+				"Frontend/spec/models/ability_spec.rb"
+			],
+			[
+				"abilityspec",
+				"Frontend/spec/models/ability_spec.rb"
+			],
+			[
+				"workflowenginspec",
+				"Frontend/spec/lib/workflow_engine_spec.rb"
+			],
+			[
+				"taskscontro",
+				"Frontend/app/controllers/tasks_controller.rb"
+			],
+			[
+				"taskcontr",
+				"Frontend/app/controllers/tasks_controller.rb"
+			],
+			[
+				"itsm",
+				"Frontend/app/models/itsm.rb"
+			],
+			[
+				"workflowcont",
+				"Frontend/app/controllers/workflows/workflows_controller.rb"
+			],
+			[
+				"complete_task_form",
+				"Frontend/app/views/tasks/_complete_task_form.html.haml"
+			],
+			[
+				"taskcontrolle",
+				"Frontend/app/controllers/tasks_controller.rb"
+			],
+			[
+				"reportsand",
+				"Frontend/lib/reports_and_filters.rb"
+			],
+			[
+				"report",
+				"Frontend/app/models/report.rb"
+			],
+			[
+				"createdtoda",
+				"Frontend/app/views/widgets/_widget_tasks_created_today.html.haml"
+			],
+			[
+				"task",
+				"Frontend/app/models/task.rb"
+			],
+			[
+				"workflocontr",
+				"Frontend/app/controllers/workflows/workflows_controller.rb"
+			],
+			[
+				"root",
+				"Frontend/lib/workflows/workflow_engine/root.rb"
+			],
+			[
+				"base",
+				"Frontend/lib/workflows/workflow_engine/base.rb"
+			],
+			[
+				"taskscontr",
+				"Frontend/app/controllers/tasks_controller.rb"
+			],
+			[
+				"atoms_controller_spec",
+				"Frontend/spec/controllers/atoms_controller_spec.rb"
+			],
+			[
+				"atomscontroller",
+				"Frontend/app/controllers/atoms_controller.rb"
+			],
+			[
+				"authenti",
+				"Frontend/lib/authenticated_system.rb"
+			],
+			[
+				"applcontrspec",
+				"Frontend/spec/controllers/application_controller_spec.rb"
+			],
+			[
+				"atomsh",
+				"Frontend/app/helpers/atoms_helper.rb"
+			],
+			[
+				"authen",
+				"Frontend/lib/authenticated_system.rb"
+			],
+			[
+				"atomshelp",
+				"Frontend/app/helpers/atoms_helper.rb"
+			],
+			[
+				"authenticat",
+				"Frontend/lib/authenticated_system.rb"
+			],
+			[
+				"incidencont",
+				"Frontend/app/controllers/incidents_controller.rb"
+			],
+			[
+				"stdformat",
+				"Frontend/lib/responders/std_formats_responder.rb"
+			],
+			[
+				"incidentcontr",
+				"Frontend/app/controllers/incident_types_controller.rb"
+			],
+			[
+				"applicatiohelper",
+				"Frontend/app/helpers/application_helper.rb"
+			],
+			[
+				"applicatiocontr",
+				"Frontend/app/controllers/application_controller.rb"
+			],
+			[
+				"atomscontrollspe",
+				"Frontend/spec/controllers/atoms_controller_spec.rb"
+			],
+			[
+				"applicationcontrollerspe",
+				"Frontend/spec/controllers/application_controller_spec.rb"
+			],
+			[
+				"authentic",
+				"Frontend/lib/authenticated_system.rb"
+			],
+			[
+				"stdfor",
+				"Frontend/lib/responders/std_formats_responder.rb"
+			],
+			[
+				"atomsspec",
+				"Frontend/spec/controllers/atoms_controller_spec.rb"
+			],
+			[
+				"plans_controller_spec",
+				"Frontend/spec/controllers/plans_controller_spec.rb"
+			],
+			[
+				"spec/requests/account_spec.rb",
+				"Frontend/spec/requests/account_spec.rb"
+			],
+			[
+				"account_spec",
+				"Frontend/spec/models/account_spec.rb"
+			],
+			[
+				"application_controller_spec",
+				"Frontend/spec/controllers/application_controller_spec.rb"
+			],
+			[
+				"atomscont",
+				"Frontend/app/controllers/atoms_controller.rb"
+			],
+			[
+				"adminaccoun",
+				"Frontend/app/controllers/admin/accounts_controller.rb"
+			],
+			[
+				"accountsinde",
+				"Frontend/app/views/admin/accounts/index.atom.builder"
+			],
+			[
+				"user",
+				"Frontend/app/models/user.rb"
+			],
+			[
+				"incidentsco",
+				"Frontend/app/controllers/incidents_controller.rb"
+			],
+			[
+				"actionpack-4.1.7/lib/action_dispatch/http/url.rb",
+				"gems/actionpack-4.1.7/lib/action_dispatch/http/url.rb"
+			],
+			[
+				"authentica",
+				"Frontend/lib/authenticated_system.rb"
+			],
+			[
+				"changecontr",
+				"Frontend/app/controllers/changes_controller.rb"
+			],
+			[
+				"applicatiocontroll",
+				"Frontend/app/controllers/application_controller.rb"
+			],
+			[
+				"workflocont",
+				"Frontend/app/controllers/workflows/workflows_controller.rb"
+			],
+			[
+				"approval.rb",
+				"Frontend/app/models/workflows/activities/approval.rb"
+			],
+			[
+				"workflow_spec.rb",
+				"Frontend/spec/models/workflows/workflow_spec.rb"
+			],
+			[
+				"workflowscont",
+				"Frontend/app/controllers/workflows/workflows_controller.rb"
+			],
+			[
+				"membership.rb",
+				"Frontend/app/models/membership.rb"
+			],
+			[
+				"audit",
+				"Frontend/app/models/audit.rb"
+			],
+			[
+				"workflowtempl",
+				"Frontend/app/models/workflows/workflow_template.rb"
+			],
+			[
+				"approvalspe",
+				"Frontend/spec/models/workflows/activities/approval_spec.rb"
+			],
+			[
+				"respocont",
+				"Frontend/app/controllers/responses_controller.rb"
+			],
+			[
+				"responses",
+				"Frontend/app/controllers/responses_controller.rb"
+			],
+			[
+				"approvalrb",
+				"Frontend/app/models/workflows/activities/approval.rb"
+			],
+			[
+				"workflowapprove",
+				"Frontend/app/models/workflows/activities/workflow_approver.rb"
+			],
+			[
+				"approvalspec",
+				"Frontend/spec/models/workflows/activities/approval_spec.rb"
+			],
+			[
+				"workfapprrequ",
+				"Frontend/app/views/notifier/workflow_approval_required.text.erb"
+			],
+			[
+				"workflowapprreq",
+				"Frontend/app/views/notifier/workflow_approval_required.html.erb"
+			],
+			[
+				"notifie",
+				"Frontend/app/models/notifier.rb"
+			],
+			[
+				"workflowappro",
+				"Frontend/app/models/workflows/activities/workflow_approver.rb"
+			],
+			[
+				"en.yml",
+				"Frontend/config/locales/application/en.yml"
+			],
+			[
+				"approva",
+				"Frontend/app/models/workflows/activities/approval.rb"
+			],
+			[
+				"request",
+				"Frontend/config/initializers/request.rb"
+			],
+			[
+				"stdf",
+				"Frontend/lib/responders/std_formats_responder.rb"
+			],
+			[
+				"externalre",
+				"Frontend/app/views/application/_external_response.html.haml"
+			],
+			[
+				"layouts/guest",
+				"Frontend/app/views/layouts/guest.html.haml"
+			],
+			[
+				"application/approve_decline_response.html.haml",
+				"Frontend/app/views/application/approve_decline_response.html.haml"
+			],
+			[
+				"workflows_controller.rb",
+				"Frontend/app/controllers/workflows/workflows_controller.rb"
+			],
+			[
+				"activityspec",
+				"Frontend/spec/models/workflows/activities/activity_spec.rb"
+			],
+			[
+				"activity_spec",
+				"Frontend/spec/lib/workflow_engine/activity_spec.rb"
+			],
+			[
+				"workflowspec",
+				"Frontend/spec/models/workflows/workflow_spec.rb"
+			],
+			[
+				"workworkflow",
+				"Frontend/app/models/workflows/workflow.rb"
+			],
+			[
+				"actionspec",
+				"Frontend/spec/models/workflows/activities/action_spec.rb"
+			],
+			[
+				"notifiespec",
+				"Frontend/spec/models/notifier_spec.rb"
+			],
+			[
+				"hiddab",
+				"Frontend/lib/hiddable.rb"
+			],
+			[
+				"workflowcontrospec",
+				"Frontend/spec/controllers/workflows/workflows_controller_spec.rb"
+			],
+			[
+				"workengbase",
+				"Frontend/lib/workflows/workflow_engine/base.rb"
+			],
+			[
+				"workfcont",
+				"Frontend/app/controllers/workflows/workflows_controller.rb"
+			],
+			[
+				"workflow_template.rb",
+				"Frontend/app/models/workflows/workflow_template.rb"
+			],
+			[
+				"activity.rb",
+				"Frontend/app/models/workflows/activities/activity.rb"
+			],
+			[
+				"workflow_template",
+				"Frontend/app/models/workflows/workflow_template.rb"
+			],
+			[
+				"service_request",
+				"Frontend/app/models/incident/service_request.rb"
+			],
+			[
+				"membership",
+				"Frontend/app/models/membership.rb"
+			],
+			[
+				"approval_helper",
+				"Frontend/app/helpers/approval_helper.rb"
+			],
+			[
+				"servicereque",
+				"Frontend/app/models/incident/service_request.rb"
+			],
+			[
+				"workflowcontr",
+				"Frontend/app/controllers/workflows/workflows_controller.rb"
+			],
+			[
+				"workflowappcont",
+				"Frontend/app/controllers/workflows/activities/workflow_approvers_controller.rb"
+			],
+			[
+				"remotehelper",
+				"Frontend/app/helpers/remote_helper.rb"
+			],
+			[
+				"responsecon",
+				"Frontend/app/controllers/responses_controller.rb"
+			],
+			[
+				"resp",
+				"Frontend/app/models/response.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/dev/Frontend/app/controllers/frontend.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 87.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"confirm_reject",
+				"confirm_reject!"
+			],
+			[
+				"bind_task_defaults",
+				"bind_task_defaults"
+			],
+			[
+				"rightincipath",
+				"right_incidents_path"
+			],
+			[
+				"apply_finder",
+				"apply_finder_options"
+			],
+			[
+				"applyfinder",
+				"apply_finder_options"
+			],
+			[
+				"respond_with",
+				"respond_with"
+			],
+			[
+				"respond_to",
+				"respond_to"
+			],
+			[
+				"exportbyema",
+				"export_by_email"
+			],
+			[
+				"paginate",
+				"paginate"
+			],
+			[
+				"render_with_wicked_pdf",
+				"render_with_wicked_pdf"
+			],
+			[
+				"link",
+				"link"
+			],
+			[
+				"set_report",
+				"set_report"
+			],
+			[
+				"export?",
+				"export?"
+			],
+			[
+				"login_req",
+				"login_required"
+			],
+			[
+				"limit_littl",
+				"limit_little_ninja"
+			],
+			[
+				"",
+				"Item"
+			]
+		],
+		"width": 1257.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 361.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
