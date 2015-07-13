@@ -1,0 +1,17 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes not staged for commit:
+#	deleted:    .gitignore
+#	modified:   app/templates/application.hbs
+#	modified:   package.json
+#
+# Untracked files:
+#	app/controllers/application.js
+#	app/routes/application.js
+#	app/templates/index.hbs
+#	bower_components/
+#	node_modules/
+#	tmp/
+#
